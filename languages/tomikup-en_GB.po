@@ -1,0 +1,219 @@
+"Project-Id-Version: Canvas v5.4.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-08-07 18:04+0200\n"
+"PO-Revision-Date: 2017-08-07 18:04+0200\n"
+"Last-Translator: admin <magnus@jepson.no>\n"
+"Language-Team: \n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 2.0.3\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: /setup.php:16
+msgid "Přidat do seznamu"
+msgstr ""
+
+#: admin/tmk-save.php:16
+msgid "Před - přidat do košíku - formulářem"
+msgstr ""
+
+#: admin/tmk-save.php:17
+msgid "Před - přidat do košíku - tlačítkem"
+msgstr ""
+
+#: admin/tmk-save.php:18
+msgid "Po - přidat do košíku - tlačítku"
+msgstr ""
+
+#: admin/tmk-save.php:19
+msgid "Po - přidat do košíku - formuláři"
+msgstr ""
+
+#: admin/tmk-save.php.php:23
+msgid "Uložit"
+msgstr ""
+
+#: admin/tmk-save.php.php:32
+#: admin/tmk-save.php.php:35
+msgid "Zobrazit u Produktů (WooCommerce)"
+msgstr ""
+
+#: admin/tmk-save.php:55
+#: admin/tmk-save.php:58
+msgid "Zobrazit všude (fixace)"
+msgstr ""
+
+#: admin/tmk-save.php:65
+#: admin/tmk-save.php:68
+msgid "Vložit kód ručně, či přes Shortcode"
+msgstr ""
+
+#: admin/tmk-save.php:75
+#: admin/tmk-save.php:78
+msgid "Vypnout vkládání"
+msgstr ""
+
+#: admin/tmk-admin.php:38
+#: admin/tmk-admin-page:14
+msgid "Tomikup Nastavení"
+msgstr ""
+
+#: admin/tmk-admin.php:39
+msgid "Tomikup"
+msgstr ""
+
+#: admin/tmk-premium.php:14
+msgid "Prémiové funkce"
+msgstr ""
+
+#: admin/tmk-premium.php:21
+msgid "<a href='https://www.tomikup.cz/stat/e-shopy-wishlist' target='_blank'>Podívejte se na marketingové vychytávky Tomikupu</a>, které získáte s prémiovým účtem. Hlídací pes a wishlist jsou jen špičkou ledovce …"
+msgstr ""
+
+#: admin/tmk-premium.php:32
+msgid "Podpora"
+msgstr ""
+
+#: admin/tmk-premium.php:39
+msgid "V případě jakýchkoliv dotazů nás neváhejte oslovit přes <a href='https://www.facebook.com/tomikup' target='_blank'>Facebooku</a> nebo <a href='https://www.tomikup.cz/stat/contact' target='_blank'>kontaktní formulář</a>."
+msgstr ""
+
+#: admin/tmk-generator.php:19
+msgid "ORIGINAL"
+msgstr "<span class="green">Konfigurace</span> tlačítka"
+
+#: admin/tmk-generator.php:27
+msgid "Text tlačítka"
+msgstr ""
+
+#: admin/tmk-generator.php:40
+msgid "Umístění tlačítka"
+msgstr ""
+
+#: admin/tmk-generator.php:47
+msgid "Bez fixace"
+msgstr ""
+
+#: admin/tmk-generator.php:55
+msgid "Fixace vpravo uprostřed"
+msgstr ""
+
+#: admin/tmk-generator.php:64
+msgid "Výchozí styl"
+msgstr ""
+
+#: admin/tmk-generator.php:72
+msgid "Tlačítko"
+msgstr ""
+
+#: admin/tmk-generator.php:80
+msgid "Odkaz"
+msgstr ""
+
+#: admin/tmk-generator.php:90
+msgid "Velikost ikony:"
+msgstr ""
+
+#: admin/tmk-generator.php:103
+msgid "Velikost písma:"
+msgstr ""
+
+#: admin/tmk-generator.php:113
+msgid "Rozšířené možnosti přizpůsobení"
+msgstr ""
+
+#: admin/tmk-generator.php:122
+msgid "Váha písma:"
+msgstr ""
+
+#: admin/tmk-generator.php:135
+msgid "Barva textu"
+msgstr ""
+
+#: admin/tmk-generator.php:147
+msgid "Barva textu při najetí"
+msgstr ""
+
+#: admin/tmk-generator.php:163
+msgid "Podtržení textu"
+msgstr ""
+
+#: admin/tmk-generator.php:178
+msgid "Podtržení při najetí"
+msgstr ""
+
+#: admin/tmk-generator.php:189
+msgid "Barva pozadí"
+msgstr ""
+
+#: admin/tmk-generator.php:202
+msgid "Barva pozadí při najetí"
+msgstr ""
+
+#: admin/tmk-generator.php:215
+msgid "Šířka okraje:"
+msgstr ""
+
+#: admin/tmk-generator.php:228
+msgid "Zaoblení okraje:"
+msgstr ""
+
+#: admin/tmk-generator.php:240
+msgid "Styl okraje"
+msgstr ""
+
+#: admin/tmk-generator.php:261
+msgid "Styl okraje při najetí"
+msgstr ""
+
+#: admin/tmk-generator.php:282
+msgid "Barva okraje"
+msgstr ""
+
+#: admin/tmk-generator.php:295
+msgid "Barva okraje při najetí"
+msgstr ""
+
+#: admin/tmk-generator.php:308
+msgid "Horizontální vnitřní okraj:"
+msgstr ""
+
+#: admin/tmk-generator.php:321
+msgid "Vertikální vnitřní okraj:"
+msgstr ""
+
+#: admin/tmk-generator.php:334
+msgid "Odkaz tlačítka &quot;Jak to funguje?&quot;"
+msgstr ""
+
+#: admin/tmk-generator.php:345
+msgid "<span class="green">Náhled</span> tlačítka"
+msgstr ""
+
+#: admin/tmk-generator.php:348
+msgid "Tlačítko naleznete uprostřed pravého okraje obrazovky"
+msgstr ""
+
+#: admin/tmk-generator.php:360
+msgid "Pokud chcete vložit kód ručně nebo přes shortcode [tomikup], musíte aktivovat <a href='#' onclick=\"changeTmkStatus('tmk-status-custom');\">Vložit kód ručně, či přes Shortcode</a> možnost."
+msgstr ""
+
+#: admin/tmk-generator.php:364
+msgid "Vygenerované kódy</span> tlačítka"
+msgstr ""
+
+#: admin/tmk-generator.php:368
+msgid "Tento kód vložte na konec stránky, těsně před uzavírací tag &lt;/body&gt;:"
+msgstr ""
+
+#: admin/tmk-generator.php:377
+msgid "Tento kód vložte tam, kde chcete mít tlačítko zobrazené:"
+msgstr ""
